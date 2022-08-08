@@ -1,24 +1,24 @@
 <h1 align="center"> Recriando a pagina inicial do instagram </h1>
 
 <p align="center">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rwbe/Recriando-a-pagina-inicial-do-insta">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rwbe/Remake-Instagram-Page">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rwbe/Recriando-a-pagina-inicial-do-insta?logo=html">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rwbe/Remake-Instagram-Page?logo=html">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rwbe/Recriando-a-pagina-inicial-do-insta?color=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/rwbe/Remake-Instagram-Page?color=green">
 
   <br>
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/rwbee/Recriando-a-pagina-inicial-do-insta">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/rwbe/Remake-Instagram-Page">
 
-  <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
-    <img alt="Made by Ricardo" src="https://img.shields.io/badge/made%20by-Ri-%2304D361">
+  <a href="https://www.linkedin.com/in/ricardo-willian-0b4a8b80/">
+    <img alt="Made by Ricardo" src="https://img.shields.io/badge/made%20by-Rwbe-%2304D361">
   </a>
 
   
 </p>
 
-![](principal.png)
+![](Instagram.png)
 
 <p>Este é um projeto: HTML5 e CSS3. </p>
 <p>
